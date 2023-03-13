@@ -68,3 +68,9 @@ Museums publish and manage their collection data primarily in regional instances
 
 For making such a diverse set of objects - from museums from different countries and recorded using different languages - legible and searchable, controlled vocabularies are an essential tool. At museum-digital we keep centralized vocabularies for different types of entries. If a museum thus has already linked an object to a place, that place is available to all other museums as well. Our controlled vocabularies can be browsed and downloaded at [md:term](https://term.museum-digital.de/).
 {% end %}
+
+----
+
+## Calendar
+
+{{ calendar_upcoming_events(cal_directory="/about/calendar/", hl_all="Upcoming events", hl_local="Upcoming events in English", feed_all="upcoming_events", feed_local="upcoming_events_local") }}

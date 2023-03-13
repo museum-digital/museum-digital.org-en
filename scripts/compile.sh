@@ -20,6 +20,7 @@ cd $SCRIPT_DIR/..
 
 php $SCRIPT_DIR/getJsonAPIs.php
 php $SCRIPT_DIR/getRssFeed.php
+php $SCRIPT_DIR/updateEvents.php
 
 zola build
 
