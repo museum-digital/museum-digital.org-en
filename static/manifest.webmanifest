@@ -23,6 +23,11 @@
         "sizes": "256x256",
         "type": "image/png"
     }, {
+        "src": "/data/img/logo/mdlogo-code-maskable-256x256.png",
+        "sizes": "256x256",
+        "type": "image/png",
+        "purpose": "maskable"
+    }, {
         "src": "/data/img/logo/mdlogo-code-512px.png",
         "sizes": "512x512",
         "type": "image/png"
