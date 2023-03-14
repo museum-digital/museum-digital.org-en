@@ -41,3 +41,9 @@ We hope to make museum-digital available and useful to all people. Not all peopl
 
 Another way of participation is to join the norm data editors and collaborate with them in managing, enriching and translating the controlled vocabularies of museum-digital.
 {% end %}
+
+----
+
+{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/category/community/feed/",
+    html_url="https://blog.museum-digital.org/category/community/",
+    title="News about the museum-digital community in the blog") }}
