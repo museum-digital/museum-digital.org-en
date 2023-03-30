@@ -19,6 +19,12 @@ const FEEDS = [
     'https://blog.museum-digital.org/category/technik-design/externe-tools/feed/',
     'https://blog.museum-digital.org/category/community/feed/',
     'https://blog.museum-digital.org/feed/',
+
+    'https://blog.museum-digital.org/author/andersm/feed/',
+    'https://blog.museum-digital.org/author/jrenslin/feed/',
+    'https://blog.museum-digital.org/author/malygina/feed/',
+    'https://blog.museum-digital.org/author/stefan-rohde-enslin/feed/',
+
 ];
 
 require __DIR__ . '/../themes/museum-digital-theme-zola/scripts/getRssFeed.php';
