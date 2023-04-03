@@ -20,6 +20,7 @@ const FEEDS = [
     'https://blog.museum-digital.org/category/community/feed/',
     'https://blog.museum-digital.org/feed/',
 
+    'https://blog.museum-digital.org/author/adamm/feed/',
     'https://blog.museum-digital.org/author/andersm/feed/',
     'https://blog.museum-digital.org/author/jrenslin/feed/',
     'https://blog.museum-digital.org/author/malygina/feed/',
