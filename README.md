@@ -2,7 +2,7 @@
 
 ## Purpose of this Website
 
-This website is to give an overall image of museum-digital and the various linked endeavours.
+This website is to give an overall image of museum-digital and the various linked endeavours. The rendered website can be found at [en.about.museum-digital.org](https://en.about.museum-digital.org/).
 
 ## Setup
 
