@@ -189,9 +189,9 @@ musdb is build for multi-lingual use and has been translated to a number of lang
     image="/data/img/logos-ext/mdBook.svg",
     image_alt="") %}Documentation (German){% end %}
 
-{% museumdigital_linktiles_tile(link="https://www.youtube.com/playlist?list=PLFbmcALPcmvLtbv38OpjEkHFteP-qhmDY",
+{% museumdigital_linktiles_tile(link="https://www.youtube.com/playlist?list=PLlwIIHnjvD4dxfhhzRFZFTWUf_f7mP8xe",
     image="/data/img/logos-ext/YouTube_social_red_square_2017.svg",
-    image_alt="") %}Videos on YouTube{% end %}
+    image_alt="") %}Videos on YouTube (German){% end %}
 
 {% museumdigital_linktiles_tile(link="https://demo.museum-digital.org/musdb/swagger/",
     image="/data/img/icons/more.svg",
