@@ -99,7 +99,7 @@ From the start, nodac has been written with linked open data in mind. It not onl
 
 {% museumdigital_linktiles_tile(link="https://youtube.com/playlist?list=PLlwIIHnjvD4fRhTJR-5xLe-NG-C_rVEhA",
     image="/data/img/logos-ext/YouTube_social_red_square_2017.svg",
-    image_alt="Logo von Youtube") %}Videos zu nodac on YouTube{% end %}
+    image_alt="Logo of Youtube") %}Videos about nodac on YouTube{% end %}
 
 {{ museumdigital_linktiles_list_end() }}
 
