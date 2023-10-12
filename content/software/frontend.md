@@ -195,11 +195,13 @@ Many museums come together to use museum-digital as a publication platform - and
     image="/data/img/logos-ext/mdBook.svg",
     image_alt="") %}Handbook pages (German){% end %}
 
-{% museumdigital_linktiles_tile(link="https://nat.museum-digital.de/index.php?t=text&st=api",
+{% museumdigital_linktiles_tile(link="https://global.museum-digital.org/musdb/swagger/",
     image="/data/img/icons/more.svg",
-    image_alt="") %}Short introduction to the API{% end %}
+    image_alt="") %}API documentation{% end %}
 
 {{ museumdigital_linktiles_list_end() }}
+
+----
 
 {{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/category/development/frontend/feed/",
     html_url="https://blog.museum-digital.org/category/development/frontend/",

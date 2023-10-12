@@ -49,13 +49,17 @@ md:term might be used independent of museum-digital as a presentation tool for v
 
 {{ museumdigital_linktiles_list_start() }}
 
+{% museumdigital_linktiles_tile(link="https://term.museum-digital.de/",
+    image="/data/img/logos/mdterm-128px.png",
+    image_alt="Logo") %}md:term{% end %}
+
 {% museumdigital_linktiles_tile(link="https://de.handbook.museum-digital.info/md-term/index.html",
     image="/data/img/logos-ext/mdBook.svg",
     image_alt="Logo") %}Handbook (German) on md:term{% end %}
 
-{% museumdigital_linktiles_tile(link="https://term.museum-digital.de/",
-    image="/data/img/logos/mdterm-128px.png",
-    image_alt="Logo") %}md:term{% end %}
+{% museumdigital_linktiles_tile(link="https://term.museum-digital.de/swagger/",
+    image="/data/img/icons/more.svg",
+    image_alt="") %}API documentation{% end %}
 
 {{ museumdigital_linktiles_list_end() }}
 
