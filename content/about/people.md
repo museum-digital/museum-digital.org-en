@@ -125,6 +125,20 @@ Dr. Stefan Rohde-Enslin has been working on questions of digitization and long-t
 Independently of this, he has been involved in the development of museum-digital - in direct collaboration with museums and their associations - since its founding in 2009. He developed the first working iterations of many of museum-digital's tools, but is now mainly concerned with the controlled vocabularies and trainings when it comes to museum-digital.
 {% end %}
 
+{% people_tile(name="Vera Kudlinski",
+    role="Regional administrator in Hesse, Germany",
+    mail="vera.kudlinski@museumsverband-hessen.de",
+    homepage="",
+    feed_page="",
+    feed_url="",
+    image="/data/img/people/VeraKudlinski_RightsReserved.png",
+    image_licence="Alle Rechte vorbehalten",
+    image_creator="") %}
+Fachreferentin für digitales Sammlungsmanagement beim Museumsverband Hessen.
+
+The museum association of Hessen regularly hosts trainings on the use of museum-digital for collection management and answers questions regarding museum-digital for museums in Hesse, Germany.
+{% end %}
+
 {{ museumdigital_linktiles_list_end() }}
 
 <script async src=/js/people.js></script>
