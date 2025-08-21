@@ -203,6 +203,6 @@ Many museums come together to use museum-digital as a publication platform - and
 
 ----
 
-{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/category/development/frontend/feed/",
-    html_url="https://blog.museum-digital.org/category/development/frontend/",
+{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/category/development/frontend-en/feed/",
+    html_url="https://blog.museum-digital.org/category/development/frontend-en/",
     title="News About the Frontend in the Blog") }}

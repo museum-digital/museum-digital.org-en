@@ -65,6 +65,6 @@ md:term might be used independent of museum-digital as a presentation tool for v
 
 ----
 
-{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/category/development/development-md-term/feed/",
-    html_url="https://blog.museum-digital.org/category/development/development-md-term/",
+{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/category/development/development-md-term-en/feed/",
+    html_url="https://blog.museum-digital.org/category/development/development-md-term-en/",
     title="News") }}

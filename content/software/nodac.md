@@ -105,6 +105,6 @@ From the start, nodac has been written with linked open data in mind. It not onl
 
 ----
 
-{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/category/development/development-md-term/feed/",
-    html_url="https://blog.museum-digital.org/category/development/development-md-term/",
+{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/category/development/nodac-en/feed/",
+    html_url="https://blog.museum-digital.org/category/development/nodac-en/",
     title="News") }}
