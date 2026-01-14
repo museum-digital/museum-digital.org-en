@@ -63,6 +63,10 @@ The Themator is structured around topics, which can be super- or subordinate to 
     image="/data/img/logos/themator-128.png",
     image_alt="Logo") %}Themator (Hungarian){% end %}
 
+{% museumdigital_linktiles_tile(link="https://ua-themator.museum-digital.org/",
+    image="/data/img/logos/themator-128.png",
+    image_alt="Logo") %}Themator (Ukrainian){% end %}
+
 {% museumdigital_linktiles_tile(link="https://de.handbook.museum-digital.info/Themator/index.html",
     image="/data/img/logos-ext/mdBook.svg",
     image_alt="Logo") %}Handbook (German) on the themator{% end %}
