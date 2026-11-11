@@ -21,8 +21,8 @@ Who's behind museum-digital? Obviously: People. Some of them are introduced here
     role="Coordinator in Hungary",
     mail="magyarosi.adam@gmail.com",
     homepage="https://unideb.academia.edu/ÁdámMagyarosi",
-    feed_page="https://blog.museum-digital.org/author/adamm/",
-    feed_url="https://blog.museum-digital.org/author/adamm/feed/",
+    feed_page="",
+    feed_url="",
     image="/data/img/people/Adam_RightsReserved.jpg",
     image_licence="Rights reserved",
     image_creator="") %}
@@ -43,22 +43,12 @@ In addition to the museum-digital, he is working on his doctoral dissertation on
 Since July 2022, Anne-Katrin Koch works at the Museum Association of Rhineland-Palantine, Germany. She is a regional coordinator for museum-digital in that state.
 {% end %}
 
-{{ people_tile(name="Dina Sonntag",
-    role="Coordinator Baden-Württemberg",
-    mail="sonntag@landesstelle.de",
-    homepage="",
-    feed_page="",
-    feed_url="",
-    image="/data/img/people/DinaSonntag_AlleRechteVorbehalten_SebastianBerger.jpg",
-    image_licence="Rights reserved",
-    image_creator="Sebastian Berger") }}
-
 {{ people_tile(name="Ekaterina Malygina",
     role="Coordinator museum-digital Ukraine",
     mail="ekaterina.l.malygina@museum-digital.de",
     homepage="",
-    feed_page="https://blog.museum-digital.org/author/malygina/",
-    feed_url="https://blog.museum-digital.org/author/malygina/feed/",
+    feed_page="",
+    feed_url="",
     image="/data/img/people/EkaterinaMalygina-AlleRechteVorbehalten.jpg",
     image_licence="Rights reserved",
     image_creator="Ekaterina Malygina") }}
@@ -79,8 +69,8 @@ Since July 2022, Anne-Katrin Koch works at the Museum Association of Rhineland-P
     role="Programming and Systems Administration",
     mail="joshua@museum-digital.de",
     homepage="https://www.jrenslin.de/",
-    feed_page="https://blog.museum-digital.org/author/jrenslin/",
-    feed_url="https://blog.museum-digital.org/author/jrenslin/feed/",
+    feed_page="https://blog.museum-digital.org/authors/jrenslin/",
+    feed_url="https://blog.museum-digital.org/authors/jrenslin/atom.xml",
     image="/data/img/people/JoshuaREnslin.jpg",
     image_licence="CC BY 4.0",
     image_creator="Joshua Ramon Enslin") %}
@@ -103,8 +93,8 @@ Since July 2022, Anne-Katrin Koch works at the Museum Association of Rhineland-P
     role="museum-digital Deutschland e. V.",
     mail="anders@museumsverband-rlp.de",
     homepage="",
-    feed_page="https://blog.museum-digital.org/author/andersm/",
-    feed_url="https://blog.museum-digital.org/author/andersm/feed/",
+    feed_page="",
+    feed_url="",
     image="/data/img/people/MiriamAnders.jpg",
     image_licence="CC BY 4.0",
     image_creator="Miriam Anders") %}
@@ -115,8 +105,8 @@ Since July 2022, Anne-Katrin Koch works at the Museum Association of Rhineland-P
     role="Co-Founder",
     mail="s.rohde-enslin@museum-digital.de",
     homepage="",
-    feed_page="https://blog.museum-digital.org/author/stefan-rohde-enslin/",
-    feed_url="https://blog.museum-digital.org/author/stefan-rohde-enslin/feed/",
+    feed_page="",
+    feed_url="",
     image="/data/img/people/StefanRohdeEnslin.jpg",
     image_licence="CC BY 4.0",
     image_creator="Stefan Rohde-Enslin") %}

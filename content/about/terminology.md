@@ -47,7 +47,7 @@ The curation of controlled vocabularies is thus a joint effort of the participat
 
 ----
 
-{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/tag/controlled-vocabularies/feed/", html_url="https://blog.museum-digital.org/tag/controlled-vocabularies/", title="News") }}
+{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/categories/terminology/atom.xml", html_url="https://blog.museum-digital.org/categories/terminology/", title="News") }}
 
 {{ embed_chartjs() }}
 <script src="/js/dashboard-controlled-vocabs-status.js" type="text/javascript" async></script>

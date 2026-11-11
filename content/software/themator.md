@@ -75,6 +75,6 @@ The Themator is structured around topics, which can be super- or subordinate to 
 
 ----
 
-{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/category/technik-design/themator-de/feed/",
-    html_url="https://blog.museum-digital.org/category/technik-design/themator-de/",
+{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/categories/themator/atom.xml",
+    html_url="https://blog.museum-digital.org/categories/themator/",
     title="News About the Themator") }}

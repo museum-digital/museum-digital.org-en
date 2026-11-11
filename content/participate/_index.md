@@ -44,6 +44,6 @@ Another way of participation is to join the norm data editors and collaborate wi
 
 ----
 
-{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/category/community/feed/",
-    html_url="https://blog.museum-digital.org/category/community/",
+{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/categories/community/atom.xml",
+    html_url="https://blog.museum-digital.org/categories/community/",
     title="News about the museum-digital community in the blog") }}

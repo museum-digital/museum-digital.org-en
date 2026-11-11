@@ -199,6 +199,6 @@ musdb is build for multi-lingual use and has been translated to a number of lang
 
 {{ museumdigital_linktiles_list_end() }}
 
-{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/category/development/musdb-en-development/feed/",
-    html_url="https://blog.museum-digital.org/category/development/musdb-en-development/",
+{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/categories/musdb/atom.xml",
+    html_url="https://blog.museum-digital.org/categories/musdb/",
     title="News About the Development of musdb") }}

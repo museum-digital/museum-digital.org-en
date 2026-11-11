@@ -42,6 +42,6 @@ While museum-digital:qa is also usable using a web interface, it offers a full, 
 
 ----
 
-{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/category/development/museum-digital-qa-en/feed/",
-    html_url="https://blog.museum-digital.org/category/development/museum-digital-qa-en/",
+{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/categories/museum-digital-qa/atom.xml",
+    html_url="https://blog.museum-digital.org/categories/museum-digital-qa/",
     title="News") }}

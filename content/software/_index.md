@@ -47,6 +47,6 @@ Early on, when developing the main frontend and musdb, we decided to use control
 
 ----
 
-{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/category/development/feed/",
-    html_url="https://blog.museum-digital.org/category/development/",
+{{ museumdigital_rss_tile(feed_url="https://blog.museum-digital.org/categories/development/atom.xml",
+    html_url="https://blog.museum-digital.org/categories/development/",
     title="Tech-Related News in our Blog") }}
